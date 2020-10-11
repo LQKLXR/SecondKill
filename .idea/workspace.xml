@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9fdaa85-f39a-4773-b91f-2276a97af251" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="1hjQm4JPfEMv5U1aDN7KMqLSd3Z" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/second-kill/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lqk.orderservice.beanconfig" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\eclipse-workspace\secondkill\second-kill\src\main\resources" />
+      <recent name="E:\eclipse-workspace\secondkill\second-kill\src\main\java\com\lqk\secondkill" />
+      <recent name="E:\eclipse-workspace\secondkill\second-kill\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OrderServiceApplication">
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lqk.orderservice.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondKillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="second-kill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lqk.secondkill.SecondKillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondkillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="secondkill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lqk.secondkill.SecondkillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9fdaa85-f39a-4773-b91f-2276a97af251" name="Default Changelist" comment="" />
+      <created>1600522176319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600522176319</updated>
+      <workItem from="1600522179079" duration="13560000" />
+      <workItem from="1600568947902" duration="3565000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1600533585590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1600533585590" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1600538109316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1600538109316" />
+    <state x="524" y="118" key="#xdebugger.evaluate" timestamp="1600525844216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="118" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1600525844216" />
+    <state width="1478" height="465" key="GridCell.Tab.0.bottom" timestamp="1600585182736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="465" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600585182736" />
+    <state width="1478" height="465" key="GridCell.Tab.0.center" timestamp="1600585182736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="465" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600585182736" />
+    <state width="1478" height="465" key="GridCell.Tab.0.left" timestamp="1600585182736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="465" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600585182736" />
+    <state width="1478" height="465" key="GridCell.Tab.0.right" timestamp="1600585182736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="465" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600585182736" />
+    <state width="1478" height="465" key="GridCell.Tab.1.bottom" timestamp="1600585182737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="465" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600585182737" />
+    <state width="1478" height="465" key="GridCell.Tab.1.center" timestamp="1600585182736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="465" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600585182736" />
+    <state width="1478" height="465" key="GridCell.Tab.1.left" timestamp="1600585182736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="465" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600585182736" />
+    <state width="1478" height="465" key="GridCell.Tab.1.right" timestamp="1600585182737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="465" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600585182737" />
+    <state width="1478" height="389" key="GridCell.Tab.2.bottom" timestamp="1600538138934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="389" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600538138934" />
+    <state width="1478" height="389" key="GridCell.Tab.2.center" timestamp="1600538138934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="389" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1600538138934" />
+    <state width="1478" height="389" key="GridCell.Tab.2.left" timestamp="1600538138934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="389" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1600538138934" />
+    <state width="1478" height="389" key="GridCell.Tab.2.right" timestamp="1600538138934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="389" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1600538138934" />
+    <state x="270" y="60" key="SettingsEditor" timestamp="1600524427734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600524427734" />
+    <state x="178" y="76" key="new project wizard" timestamp="1600534033538">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="76" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1600534033538" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600523502823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600523502823" />
+  </component>
+</project>
